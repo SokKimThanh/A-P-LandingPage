@@ -45,7 +45,7 @@ Sao chépChỉnh sửa
 ⏳ Kế hoạch thực hiện
 --------------------
 
-Dự án được triển khai trong **10 ngày làm việc**, với các công việc cụ thể:
+Dự án được triển khai với các công việc cụ thể:
 
 1.  Cấu trúc HTML, thiết lập layout
 2.  Tích hợp Bootstrap và responsive
@@ -55,18 +55,3 @@ Dự án được triển khai trong **10 ngày làm việc**, với các công 
 6.  Xây dựng FAQ dạng accordion
 7.  Kiểm tra hiển thị và tối ưu tốc độ tải trang
 8.  Chạy thử nghiệm, kiểm tra lỗi và hoàn thiện
-
-💰 Báo giá
-----------
-
--   **Tổng chi phí thực hiện:** **12.000.000 VNĐ**
--   **Thời gian hoàn thành:** **10 ngày**
-
-📞 Liên hệ
-----------
-
-Nếu có bất kỳ câu hỏi hoặc yêu cầu điều chỉnh nào, vui lòng liên hệ:\
-📧 Email: [email@example.com]\
-📞 SĐT: [+84 XXX-XXX-XXX]
-
-🔥 **Cảm ơn bạn đã quan tâm đến dự án!** 🚀
